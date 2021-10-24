@@ -1,7 +1,7 @@
 # CreateFlowLogs
 The repo helps us create vpc flow logs 
 
-Create a Lambda role with the permissions in the file
+Create a Lambda role with the permissions in the file - PermissionsRequiredForLambda
 
 Create Lambda function with the code and attach the created role
 
